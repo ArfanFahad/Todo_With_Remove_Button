@@ -1,0 +1,21 @@
+
+* {
+  font-family: Fira Code;
+}
+
+
+button {
+  border: none;
+  padding: 0.1rem 0.6rem;
+  cursor: pointer;
+  margin: 0.2rem;
+}
+
+input {
+  border: 1px solid black;
+}
+
+
+input:focus-visible {
+  outline: none;
+}
